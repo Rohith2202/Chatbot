@@ -16,7 +16,7 @@ Requirements to run the chatbot-VChat are mentioned in the requirements.txt file
 
 Features of VChat-Chatbot:
    
-   Can reply to basic user-queries
+    Can reply to basic user-queries
     
     Can initiate small talk
     
