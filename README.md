@@ -10,6 +10,12 @@ Languages and interfaces used:
   
   Html
   
+  Heroku
+  
+  Git
+  
+  Gunicorn
+  
 
 Requirements to run the chatbot-VChat are mentioned in the requirements.txt file.
   
@@ -63,6 +69,10 @@ Maitreyi - https://github.com/Maitreyi1506
 Sweekruthi - https://github.com/SweekrutiSingh19
 
 Shaunak - https://github.com/shaunakmaduskar
+
+
+VChat-Website link:
+https://vchat-smartbot.herokuapp.com/
 
 
 User licence
