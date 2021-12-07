@@ -1,17 +1,22 @@
 # VChat-Chatbot
 Vchat is a smart chatbot that can reply to your questions. Vchat can also act like a mine search engine by creating a bridge between the user and various platforms like google,youtube and wikipedia all within the same interface. Vchat also consists of a healthbot that can provide various suggestions based on user input.
 
+
 Languages and interfaces used:
+
   Python 
   
   Flask
   
   Html
   
+
 Requirements to run the chatbot-VChat are mentioned in the requirements.txt file.
   
+
 Features of VChat-Chatbot:
-    Can reply to basic user-queries
+   
+   Can reply to basic user-queries
     
     Can initiate small talk
     
@@ -24,8 +29,7 @@ Features of VChat-Chatbot:
     Can tell jokes and stories
     
     Can figure out when your replies are sad and will ask you about what has happened
-    
-    
+       
     
 How to use VChat:
 
@@ -47,6 +51,7 @@ How to use VChat:
 16. Click on the flappybird option to initiate the game
 17. Flappybird is a fun game that can be played by users of age 10+
 
+
 Developed by:
 
 Esha - https://github.com/ESHA1101    
@@ -58,6 +63,7 @@ Maitreyi - https://github.com/Maitreyi1506
 Sweekruthi - https://github.com/SweekrutiSingh19
 
 Shaunak - https://github.com/shaunakmaduskar
+
 
 User licence
 Copyright© 2021 Esha,Rohith,Maitreyi,Sweekruthi,Shaunak
