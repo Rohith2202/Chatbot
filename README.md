@@ -3,7 +3,9 @@ Vchat is a smart chatbot that can reply to your questions. Vchat can also act li
 
 Languages and interfaces used:
   Python 
+  
   Flask
+  
   Html
   
 Requirements to run the chatbot-VChat are mentioned in the requirements.txt file.
