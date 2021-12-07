@@ -12,12 +12,19 @@ Requirements to run the chatbot-VChat are mentioned in the requirements.txt file
   
 Features of VChat-Chatbot:
     Can reply to basic user-queries
+    
     Can initiate small talk
+    
     Can be used to search various things across Google,Wikipedia and Youtube
+    
     Includes a game 
+    
     Has a healthbot to provide various health related suggestions
+    
     Can tell jokes and stories
+    
     Can figure out when your replies are sad and will ask you about what has happened
+    
     
     
 How to use VChat:
