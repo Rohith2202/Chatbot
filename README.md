@@ -40,7 +40,7 @@ How to use VChat:
 
 Developed by:
 
-Esha - https://github.com/ESHA1101
+Esha - https://github.com/ESHA1101 /n
 Rohith - https://github.com/Rohith2202
 Maitreyi - https://github.com/Maitreyi1506
 Sweekruthi - https://github.com/SweekrutiSingh19
