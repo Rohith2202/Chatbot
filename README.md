@@ -1,5 +1,5 @@
 # VChat-Chatbot
-Vchat is a smart chatbot that can reply to your questions. Vchat can also act like a mine search engine by creating a bridge between the user and various platforms like google,youtube and wikipedia all within the same interface. Vchat also consists of a healthbot that can provide various suggestions based on user input.
+Vchat is a smart chatbot that can reply to your questions. Vchat can also act like a mini search engine by creating a bridge between the user and various platforms like google,youtube and wikipedia all within the same interface. Vchat also consists of a healthbot that can provide various suggestions based on user input.
 
 
 Languages and interfaces used:
