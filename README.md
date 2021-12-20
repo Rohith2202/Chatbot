@@ -19,6 +19,7 @@ Languages and interfaces used:
 
 Requirements to run the chatbot-VChat are mentioned in the requirements.txt file.
   
+If u run the code using the python terminal Vchat-Chatbot will open in localhost [port:5000 (port can be changed by the user)].
 
 Features of VChat-Chatbot:
    
